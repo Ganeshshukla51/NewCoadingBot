@@ -8,9 +8,18 @@
 
 ~~arun~~
 
-1ram 1shyam 1mohan
+unordered list
 
--*+
+- ram
+- shyam
+* mohan
++ radhe
+
+ordered list
+
+1. he is good
+1. he is a coader
+3. he is very intelligent
 
 [click me](https://www.google.com/)
 
