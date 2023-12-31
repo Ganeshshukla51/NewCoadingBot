@@ -12,7 +12,7 @@
 
 -*+
 
-[click me]()
+[click me](www.google.com)
 
 ![raj]()
 
